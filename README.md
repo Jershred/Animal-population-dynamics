@@ -10,4 +10,5 @@ Project carried out for a computer science course in C at Polytech Lyon (France)
 
 ## Project
 The aim of this project is to study the human impact on animal population dynamics. To model these dynamics, the Lokta-Volterra differential equation system is used in its most general form.
-![GitHub Logo](/images/logo.png)
+[Subject](/images/logo.png)
+(in French)
