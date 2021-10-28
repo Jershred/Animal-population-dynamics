@@ -1,4 +1,4 @@
-# Animal population dynamics
+# Animal population dynamics (Lokta-Volterra differential equation)
 ## Context
 Project carried out for a computer science course in C at Polytech Lyon (France).
 
